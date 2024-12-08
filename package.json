@@ -1,0 +1,28 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "[_{{{CITATION{{{_1{](https://github.com/dodeca-dev/ddi-it-shop-app/tree/22c7d8ce1dbce447d73d9ca1a9674e72c8a7fbf4/components%2FLayout%2FHeader.js)[_{{{CITATION{{{_2{](https://github.com/meirelesdev/projetoacademia-frontend/tree/3c0d30bf166e4072091265e9eb65e2ed720b308b/components%2FHeaderindex.js)[_{{{CITATION{{{_3{](https://github.com/tienpqt/pteleader/tree/19e1616388208deb2c17c6f38b62de06bfa834e8/components%2FLayouts%2FFooter.js)[_{{{CITATION{{{_4{](https://github.com/makoto-ogata/next-portforio/tree/70c50eaf4b7a50b7e57719793168708c6f8b93ce/src%2Fcomponents%2Fheader.js),
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.4",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5"
+  }
+}
